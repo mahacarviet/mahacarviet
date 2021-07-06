@@ -35,9 +35,9 @@
 <br />
 
 
-<img align="left" alt="mahacarviet's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mahacarviet&show_icons=true&theme=radical" />
+<img align="left" alt="mahacarviet's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mahacarviet&show_icons=true" />
 <br/>
-<img align="left" alt="mahacarviet's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahacarviet&theme=radical&hide=scss" />
+<img align="left" alt="mahacarviet's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahacarviet&hide=scss" />
 
 
 [twitter]: https://twitter.com/
