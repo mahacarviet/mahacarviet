@@ -12,10 +12,11 @@
 
 ### Connect with me:
 
+[<img align="left" alt="mwx | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="mwx | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mwx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mwx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="mwx | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="mwx | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][youtube]
 <br />
 
 ### Languages and Tools:
@@ -40,7 +41,8 @@
 <img align="left" alt="mahacarviet's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahacarviet&hide=scss" />
 
 
+[facebook]: https://www.facebook.com/vietchelsea.mahacar/
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/
 [linkedin]: https://www.linkedin.com/in/
-[facebook]: https://www.facebook.com/vietchelsea.mahacar/
+[youtube]: https://www.youtube.com/
