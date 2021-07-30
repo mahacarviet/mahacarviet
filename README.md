@@ -13,10 +13,10 @@
 ### Connect with me:
 
 [<img align="left" alt="mwx | Facebook" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="mwx | Youtube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][youtube]
 [<img align="left" alt="mwx | Twitter" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mwx | LinkedIn" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mwx | Instagram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="mwx | Youtube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][youtube]
 <br />
 
 ### Languages and Tools:
@@ -42,7 +42,8 @@
 
 
 [facebook]: https://www.facebook.com/vietchelsea.mahacar/
+[youtube]: https://www.youtube.com/
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/
 [linkedin]: https://www.linkedin.com/in/
-[youtube]: https://www.youtube.com/
+
