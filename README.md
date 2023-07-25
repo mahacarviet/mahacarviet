@@ -41,7 +41,7 @@
 <img align="left" alt="mahacarviet's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahacarviet&hide=scss" />
 
 
-[facebook]: https://www.facebook.com/vietchelsea.mahacar/
+[facebook]: https://www.facebook.com/mahacarviet/
 [youtube]: https://www.youtube.com/
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/
